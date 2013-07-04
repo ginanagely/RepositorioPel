@@ -20,5 +20,10 @@ namespace PEL
         {
             MessageBox.Show("personal");
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("donaciones");
+        }
     }
 }
